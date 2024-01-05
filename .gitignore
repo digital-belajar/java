@@ -1,0 +1,8 @@
+ruang-belajar-java.code-workspace
+workspace.code-workspace
+test/
+/src/JavaApplication2/nbproject/private/
+/src/JavaApplication2/build/
+/src/JavaApplication1/nbproject/private/
+/src/JavaApplication1/build/
+*.class

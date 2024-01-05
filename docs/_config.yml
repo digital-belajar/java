@@ -1,0 +1,12 @@
+title: Digital Belajar - Java
+description: Repositori pembelajaran mata kuliah pemrograman Java
+image: images/preview.jpg
+domain: digital-belajar.github.io
+url: http://digital-belajar.github.io
+github_username: digital-belajar
+
+remote_theme: pages-themes/modernist
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed1
+  - jekyll-seo-tag
